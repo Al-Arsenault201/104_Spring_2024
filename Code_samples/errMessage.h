@@ -1,0 +1,1 @@
+int printMessage (int messageNum);
